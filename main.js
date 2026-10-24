@@ -1,5 +1,5 @@
 // Correo donde llegan las consultas de marcas. Cámbialo por el tuyo.
-var CONTACT_EMAIL = 'contacto@ejemplo.cl';
+var CONTACT_EMAIL = 'edolatorrea@gmail.com';
 
 (function () {
   var link = document.getElementById('mail-link');
