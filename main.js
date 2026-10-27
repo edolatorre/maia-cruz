@@ -1,5 +1,5 @@
-// Correo donde llegan las consultas de marcas. Cámbialo por el tuyo.
-var CONTACT_EMAIL = 'edolatorrea@gmail.com';
+// Correo donde llegan las consultas de marcas.
+var CONTACT_EMAIL = 'hola@maiacruz.cl';
 
 (function () {
   var link = document.getElementById('mail-link');
